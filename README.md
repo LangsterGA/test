@@ -15,8 +15,8 @@ permalink: /R/
 Pro Toolbox
 {: .label .label-purple }
 
-- [`godataR`](https://github.com/WorldHealthOrganization/godataR) package was developed by the Go.Data team to assist with connecting to your API and extracting large volumes of data into R for further analysis. If you would like more information or if you have feedback, please email godata@who.int. If you are experiencing a bug or have a feature request, please submit an issue [here](https://github.com/WorldHealthOrganization/godataR/issues)
-- if you have ideas for further package development, we would love to hear from you!
+- [`godataPro`](https://github.com/WorldHealthOrganization/godataR) toolbox was developed by the Go.Data team to assist with connecting to your API and extracting data into ArcGIS Pro for further analysis and visualization. If you would like more information or if you have feedback, please email godata@who.int. If you are experiencing a bug or have a feature request, please submit an issue [here](https://github.com/WorldHealthOrganization/godataR/issues)
+- if you have ideas for further toolbox development, we would love to hear from you!
 
 ## Canned RMarkdown Reports 
 Reference Template
