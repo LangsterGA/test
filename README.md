@@ -12,7 +12,7 @@ SITREP map products can be used in briefing and status documents, or printed and
 ![GoData](/images/ToolBoxAnime.gif)
 
 ## Toolbox prerequisites 
-The Go.Data outbreak administrator must provide you the information below. Currently, the toolbox only works with server-based installations of Go.Data. (Do they need to sign into Go.Data once and change their pass?)
+The Go.Data outbreak administrator must provide you the information below. Currently, the toolbox works with server-based installations of Go.Data. (Do they need to sign into Go.Data once and change their pass?)
 - ***Go.Data URL***: The URL of your server where Go.Data is
 - ***Username***: The email address you use to access Go.Data
 - ***Password***: The password you use to access Go.Data
