@@ -14,10 +14,11 @@ SITREP map products can be used in briefing and status documents, or printed and
 ![GoData](/images/ToolBoxAnime.gif)
 
 ## Requirements to use tool
+The Go.Data outbreak administrator will assign you the information below. (Do they need to sign into Go.Data once and change their pass?)
 - ***Go.Data Server URL***: The URL of your server where Go.Data is
 - ***Email address***: The email address you use to access Go.Data
 - ***Password***: The password you use to access Go.Data
-- ***Outbreak ID***: This outbreak ID is found when you enter your Go.data installation, go to outbreaks, roll your mouse over the outbreak of interest and select modify. On the URL section, you will see a unique identifier, this is the Outbreak ID that will be used when building your query.
+- ***Outbreak name***: You will have the option to choose which outbreak to extract from. The list will only populate with outbreaks you have been given access to by the outbreak administrator.
 
 ## Step 1: Download the Go.Data ArcGIS Pro toolbox from [here](https://github.com/LangsterGA/test)
 
