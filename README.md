@@ -8,7 +8,8 @@ testing repository for Go.Data documentation
 Pro Toolbox
 {: .label .label-purple }
 
-[`GoData ArcGISPro SITREP`](https://github.com/LangsterGA/godata2arcgis) toolbox was developed by the Go.Data team to assist with connecting to your API and extracting data into ArcGIS Pro for further analysis and visualization. If you would like more information or if you have feedback, please email godata@who.int. If you are experiencing a bug or have a feature request, please submit an issue [here](https://github.com/WorldHealthOrganization/godataR/issues)
-If you have ideas for further toolbox development, we would love to hear from you!
+[`GoData ArcGISPro SITREP`](https://github.com/LangsterGA/godata2arcgis) toolbox was developed by the Go.Data team to uatomate the process of generating situation report (SITREP) maps during an outbreak investigation managed with Go.Data. The toolbox allows the mapmaker to extract raw case and contact data and generate summarized data to develop 10 different SITREP maps. 
+
+If you would like more information or if you have feedback, please email godata@who.int. If you are experiencing a bug or have a feature request, please submit an issue [here](https://github.com/WorldHealthOrganization/godataR/issues)
 
 ![GoData](/images/ToolBoxAnime.gif)
