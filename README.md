@@ -13,6 +13,12 @@ SITREP map products can be used in briefing and status documents, or printed and
 
 ![GoData](/images/ToolBoxAnime.gif)
 
+## Requirements to use tool
+- ***Go.Data Server URL***: The URL of your server where Go.Data is
+- ***Email address***: The email address you use to access Go.Data
+- ***Password***: The password you use to access Go.Data
+- ***Outbreak ID***: This outbreak ID is found when you enter your Go.data installation, go to outbreaks, roll your mouse over the outbreak of interest and select modify. On the URL section, you will see a unique identifier, this is the Outbreak ID that will be used when building your query.
+
 ## Step 1: Download the Go.Data ArcGIS Pro toolbox from [here](https://github.com/LangsterGA/test)
 
 If you would like more information or if you have feedback, please email godata@who.int. If you are experiencing a bug or have a feature request, please submit an issue [here](https://github.com/WorldHealthOrganization/godataR/issues)
