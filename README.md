@@ -14,7 +14,7 @@ SITREP map products can be used in briefing and status documents, or printed and
 ## Toolbox prerequisites 
 The Go.Data outbreak administrator must add you as a user to Go.Data and provide you the information below. Currently, the toolbox works with server-based installations of Go.Data. (Do they need to sign into Go.Data once and change their pass?)
 - ***Go.Data URL***: The URL of your server where Go.Data is, for example: "https://godata.moh.org/"
-- ***Username***: The email address you use to access Go.Data
+- ***Username***: The email address you use as a user name to access Go.Data
 - ***Password***: The password you use to access Go.Data
 - ***Outbreak***: The name of the outbreak you want to extract data for. Within the toolbox dialog, a drop-down list will populate with outbreaks you have been given access to by the outbreak administrator.
 
