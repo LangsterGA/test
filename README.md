@@ -25,5 +25,6 @@ The Go.Data outbreak administrator must add you as a user to Go.Data and provide
 Right-click and select 'Open'.
 
 ![GoData](/images/dialogOpen.png)
+## Step 4: Fill in the Go.Data related parameters *(first four items)
 
 If you would like more information or if you have feedback, please email godata@who.int and add "GIS:" at the beginning of the subject line. If you are experiencing a bug or have a feature request, please submit an issue [here](add link to where Pro issues can be submitted if we want to do this)
