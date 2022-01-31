@@ -17,6 +17,7 @@ The Go.Data outbreak administrator must add you as a user to Go.Data and provide
 - ***Username***: The email address you use as a user name to access Go.Data
 - ***Password***: The password you use to access Go.Data
 - ***Outbreak***: The name of the outbreak you want to extract data for. Within the toolbox dialog, a drop-down list will populate with outbreaks you have been given access to by the outbreak administrator.
+- ***GIS layer***: GIS layer with a unique identifier that matches the Go.Data summary data unique field (LocationID).
 
 ## Step 1: Download the Go.Data ArcGIS Pro toolbox from [here](https://github.com/LangsterGA/test)
 ## Step 2:  Open ArcGIS Pro and add the toolbox to your project
