@@ -1,5 +1,4 @@
-# DRAFT
-testing repository for Go.Data documentation
+# DRAFT testing repository for Go.Data documentation
 ---
 
 # ArcGIS Pro Resources for Go.Data users
