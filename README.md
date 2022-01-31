@@ -8,7 +8,7 @@ testing repository for Go.Data documentation
 Pro Toolbox
 {: .label .label-purple }
 
-[`GoData ArcGISPro SITREP`](https://github.com/LangsterGA/godata2arcgis) toolbox was developed by the Go.Data team to automate the process of generating situation report (SITREP) maps during an outbreak investigation managed with Go.Data. The toolbox allows a GIS user to extract raw case and contact data and generate pre-programmed summary data to develop 10 different typical SITREP maps. It bypasses the need for a GIS user to learn how to retrieve data from within the Go.Data system or wait for data to be distributed from others. 
+[`GoData ArcGISPro SITREP`](https://github.com/LangsterGA/godata2arcgis) toolbox was developed by the Go.Data team to access case and contact data and automate the process of generating situation report (SITREP) maps during an outbreak investigation managed with Go.Data. The toolbox allows a GIS user to extract raw case and contact data and generate pre-programmed summary data to develop 10 different typical SITREP maps. It bypasses the need for a GIS user to learn how to retrieve data from within the Go.Data system or wait for data to be distributed from others. 
 
 SITREP map products can be used in briefing and status documents, or printed and used as reference during field operations. Maps can be shared as images and be incorporated into SITREP publications or incident management slide shows and dashboards. More detailed information about the SITREP summary files is located here [<add link].
 
