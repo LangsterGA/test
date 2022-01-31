@@ -30,7 +30,7 @@ After typing your password, hit your tab button and the next section, the Outbre
 ## Step 5: Fill in output-related parameters
 Specify folders where you want to store your raw and summary csv outputs. Please note that you do not have to generate summary data - you can just extract raw data with the tool. However, if you want to join to GIS using this tool, you have to use the Output summary files option. Also, if you are generating summary data, you must also specify a file geodatabase to write the summary tables. If you join to a GIS layer, the features classes that are created are written here too. Even if you do not join summary data to GIS, you must specify a file geodatabase. It can be an existing one, or you can create a new one prior to running tool.
 
-## Fill in Join to Geogrpahy parameters
+## Step 6. Fill in Join to Geogrpahy parameters
 Specify the GIS layer that you want the summary table to join to. Note that the summary data has been programmed to summarize by the lowest level of geography used in the Go.Data system. So, if data was collected by administrative unit area level 2, then that is the level summarized. The summary data will include the location ID for the administrative areas. That is the field that will be used to join to your GIS data. You will need to make sure that field matches the unique identifier in your GIS data. If so, select the field in the GIS layer that matches the summary table locationID.
 
 If you would like more information or if you have feedback, please email godata@who.int and add "GIS:" at the beginning of the subject line. If you are experiencing a bug or have a feature request, please submit an issue [here](add link to where Pro issues can be submitted if we want to do this)
