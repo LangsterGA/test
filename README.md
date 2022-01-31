@@ -26,7 +26,7 @@ Right-click and select 'Open'.
 
 ![GoData](/images/dialogOpen.png)
 ## Step 4: Fill in the Go.Data-related parameters ***(first four items)***
-After typing your password, hit your tab button and the Outbreak section will populate with the ones you have access to. Select the outbreak you want to extract data from.
+After typing your password, hit your tab button and the next section, the Outbreak section, will populate with the ones you have access to. Select the outbreak you want to extract data from.
 ## Step 5: Fill in output-related parameters
 Specify folders where you want your raw csvs and your summary csvs. Please note that you do not have to generate summary data - you can just extract raw data with the tool. However, if you want to join to GIS using this tool, you have to use the Output summary files option. Also, if you are generating summary data, you must also specify a file geodatabase to write the summary tables. If you join to a GIS layer, the features classes that are created are written here too. Even if you do not join summary data to GIS, you must specify the file geodatabase. It can be an existing one, or you can create a new one prior to running tool.
 
