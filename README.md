@@ -1,5 +1,3 @@
-# DRAFT testing repository for Go.Data documentation
-
 # ArcGIS Pro Resources for Go.Data users
 
 ## Go.Data SITREP Toolbox for ArcGIS Pro
