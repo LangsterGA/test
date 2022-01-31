@@ -4,7 +4,7 @@ testing repository for Go.Data documentation
 
 # ArcGIS Pro Resources for Go.Data users
 
-## Go.Data Toolbox for ArcGIS Pro
+## Go.Data SITREP Toolbox for ArcGIS Pro
 Pro Toolbox
 {: .label .label-purple }
 
