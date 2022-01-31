@@ -1,12 +1,5 @@
 # test
-testing repository
----
-layout: page
-parent: Data Visualization
-grand_parent: Analytics & Dashboards
-title: R
-nav_order: 1
-permalink: /R/
+testing repository for Go.Data documentation
 ---
 
 # ArcGIS Pro Resources for Go.Data users
