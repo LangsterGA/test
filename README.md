@@ -26,7 +26,7 @@ Right-click and select 'Open'.
 
 ![GoData](/images/dialogOpen.png)
 ## Step 4: Fill in the Go.Data-related parameters ***(first four items)***
-Add the first two items and after typing your password, hit your tab button and the next section (Outbreak) will populate with the ones you have access to. Sometimes this can be a little slow - depends on your internet speed. Select the outbreak you want to extract data from.
+The graphic below notes which items are required for the run the most basic operation - generating raw datasets. Add the link to the Go.Data site and your user name (email) and, after typing your password, hit your tab button and the next item (Outbreak) will populate with the outbreaks you have access to. Sometimes this can be a little slow - depends on your internet speed. Select the outbreak you want to extract data from and then specify the folder you want the csv file outputs written.
 
 ![GoData](/images/DialogCompleteFinal_75.png)
 ## Step 5: Fill in output-related parameters
