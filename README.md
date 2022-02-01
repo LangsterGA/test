@@ -24,7 +24,7 @@ A Go.Data outbreak administrator must add you as a user to Go.Data and provide y
 ## Step 3: Open "Create SITREP tables" dialog
 Right-click and select 'Open'.
 
-![GoData](/images/OpenSITREP.png)
+![GoData](/images/OpenSITREP.PNG)
 ## Step 4: Fill in the required parameters ***(first five items)***
 Add the link to the Go.Data site and your user name (email) and, after typing your password, hit the tab button and the next item (Outbreak) will populate with the outbreaks you have access to. Sometimes this can be a little slow - depends on your internet speed. The tool is accessing the Go.Data site via API endpoints using your credentials. Select the outbreak you want to extract data for and then specify the folder you want the raw csv file outputs written.
 
