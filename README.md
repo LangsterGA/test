@@ -42,6 +42,7 @@ Specify the GIS layer that you want the summary table to join to. Note that the 
 The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by other means and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
 
 The following are what the output looks like if you use the tool fully.
+
 Five csvs of raw outbreak data.
 
 ![GoData](/images/RawCSVs.PNG)
