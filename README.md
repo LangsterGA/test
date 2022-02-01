@@ -25,14 +25,14 @@ A Go.Data outbreak administrator must add you as a user to Go.Data and provide y
 Right-click and select 'Open'.
 
 ![GoData](/images/dialogOpen.png)
-## Step 4: Fill in the required parameters ***(first four items)***
+## Step 4: Fill in the required parameters ***(first five items)***
 Add the link to the Go.Data site and your user name (email) and, after typing your password, hit the tab button and the next item (Outbreak) will populate with the outbreaks you have access to. Sometimes this can be a little slow - depends on your internet speed. The tool is accessing the Go.Data site via API endpoints using your credentials. Select the outbreak you want to extract data for and then specify the folder you want the raw csv file outputs written.
 
 ![GoData](/images/DialogCompleteFinal_75.png)
-## Step 5: Fill in optional parameters
+## Step 5: Fill in optional Summary data parameters
 Specify folders where you want to store your summary csv outputs. Please note that you do not have to generate summary data - you can just extract raw data with the tool. However, if you want to join summary files to GIS using this tool, you have to use the output summary files option. Also, if you are generating summary data, you must also specify a file geodatabase to write the summary tables (it will also create csvs). If you join to a GIS layer, the features classes that are created are written here too. Even if you do not join summary data to GIS, you must specify a file geodatabase (it will create tables there). It can be an existing one, or you can create a new one prior to running tool.
 
-## Step 6. Fill in Join to Geogrpahy parameters
+## Step 6. Fill in optional Join to Geogrpahy parameters
 Specify the GIS layer that you want the summary table to join to. Note that the summary data has been programmed to summarize by the lowest level of geography used in the Go.Data system. So, if data was collected by administrative unit area level 2, then that is the level summarized. The summary data will include the location ID for the administrative areas that the system was set up with. That is the field that will be used to join to your GIS data. You will need to make sure that field matches the unique identifier in your GIS data prior to the join. If so, select the field in the GIS layer that matches the summary table locationID. If you aren't sure, just run the tool without joining to see the values in the Location ID field.
 
 ## Description of tool outputs
