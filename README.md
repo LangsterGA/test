@@ -9,6 +9,7 @@ Pro Toolbox
 SITREP map products can be used in briefing and status documents, or printed and used as reference during field operations. Maps can be shared as images and be incorporated into SITREP publications or incident management slide shows and operations dashboards. More details about the SITREP summary files, as well as some sample SITREP maps, are located here [<link].
 
 
+
 ![GoData](/images/ToolBoxAnime.gif)
 
 ## Toolbox prerequisites 
