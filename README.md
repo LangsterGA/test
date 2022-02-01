@@ -16,7 +16,7 @@ A Go.Data outbreak administrator must add you as a user to Go.Data and provide y
 - ***Username***: The email address you use as a user name to access Go.Data (the administrator sets this in Go.Data)
 - ***Password***: The password you use to access Go.Data - if you are using the password for the first time, log into the Go.Data URL in a browser and you will be prompted to change your password. Then use the new password with this toolbox. If you don't do that step - the tool may not function.
 - ***Outbreak***: The name of the outbreak you want to extract data for. Within the toolbox dialog, a drop-down list will populate with outbreaks you have been given access to by the outbreak administrator.
-- ***GIS layer (optional)***: GIS layer with a unique identifier that matches the Go.Data summary data unique identifier field (LocationID). This is only necessary if you are joining summary data ouput to a GIS layer. The user must provide this layer - no data is provided with this toolbox. Some sources are referenced on this [page](https://worldhealthorganization.github.io/godata/locations/).
+- ***GIS layer (optional)***: GIS layer with a unique identifier that matches the Go.Data summary data unique identifier field (LocationID). This is only necessary if you are joining summary data ouput to a GIS layer. The user must provide this layer - no data is provided with this toolbox. Some GIS data sources are referenced on this [page](https://worldhealthorganization.github.io/godata/locations/).
 
 ## Step 1: Download the Go.Data ArcGIS Pro toolbox from [here](https://github.com/WorldHealthOrganization/godata-ESRI-SITREP-toolbox)
 ## Step 2:  Open ArcGIS Pro and add the toolbox to your project
