@@ -23,7 +23,6 @@ The Go.Data outbreak administrator must add you as a user to Go.Data and provide
 [To do this](https://pro.arcgis.com/en/pro-app/latest/help/projects/connect-to-a-toolbox.htm), go to the “View” tab on the ribbon and click on the “Catalog Pane” icon. In your catalog pane, right-click on the “Toolboxes” item, select “Add Toolbox”, and then navigate to the folder where you downloaded the toolbox to add it.
 ## Step 3: Open "Create SITREP tables" dialog
 Right-click and select 'Open'.
-
 ![GoData](/images/dialogOpen.png)
 ## Step 4: Fill in the Go.Data-related parameters ***(first four items)***
 Add the first two items and after typing your password, hit your tab button and the next section (Outbreak) will populate with the ones you have access to. Sometimes this can be a little slow - depends on your internet speed. Select the outbreak you want to extract data from.
