@@ -18,7 +18,7 @@ A Go.Data outbreak administrator must add you as a user to Go.Data and provide y
 - ***Outbreak***: The name of the outbreak you want to extract data for. Within the toolbox dialog, a drop-down list will populate with outbreaks you have been given access to by the outbreak administrator.
 - ***GIS layer (optional)***: GIS layer with a unique identifier that matches the Go.Data summary data unique identifier field (LocationID). This is only necessary if you are joining summary data ouput to a GIS layer. The user must provide this layer - no data is provided with this toolbox. Some GIS data sources are referenced on this [page](https://worldhealthorganization.github.io/godata/locations/#using-gis-data-as-a-source-for-your-location-data).
 
-## Step 1: Download the Go.Data ArcGIS Pro toolbox from [here](https://github.com/WorldHealthOrganization/godata-ESRI-SITREP-toolbox)
+## Step 1: Download the Go.Data ArcGIS Pro SITREP toolbox from [here](https://github.com/WorldHealthOrganization/godata-ESRI-SITREP-toolbox)
 ## Step 2:  Open ArcGIS Pro and add the toolbox to your project
 [To do this](https://pro.arcgis.com/en/pro-app/latest/help/projects/connect-to-a-toolbox.htm), go to the “View” tab on the ribbon and click on the “Catalog Pane” icon. In your catalog pane, right-click on the “Toolboxes” item, select “Add Toolbox”, and then navigate to the folder where you downloaded the toolbox to add it.
 
