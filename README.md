@@ -1,4 +1,4 @@
-# ArcGIS Pro Resources for Go.Data GIS users
+# Go.Data ArcGIS Pro Resources for GIS users
 
 ## Go.Data SITREP Toolbox for ArcGIS Pro
 Pro Toolbox
