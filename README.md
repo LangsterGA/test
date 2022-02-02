@@ -59,7 +59,7 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 ![GoData](/images/FGDB.PNG)
 
 ## SITREP summary metadata
-The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. Note that fields were calculated as of the previous day. For instance, if you map the value for new confirmed cases last 7 days, that would as of the previous day and the 6 days prior. This is because numbers published for a response (or for a daily IM meeting), are typically as of the previous day. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
+The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. Note that fields were calculated as of the previous day. For instance, if you run the tool to map the value for confirmed cases last 7 days, that value would consist of the previous day (which is the day prior to running the tool), and the 6 days prior. This is because typically numbers published for a response (or for a daily IM meeting), are "as of" the previous day. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
 ![GoData](/images/SITREPSumMetadata4.PNG)
 
