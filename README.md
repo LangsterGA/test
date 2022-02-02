@@ -68,6 +68,14 @@ The following graphic illustrates the files and associated fields (16) that are 
 
 Below are some sample SITREP maps. Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 calculated fields as a result of the summary function and they are also part of the GIS features created. You could combine some of these fields as separately symbolized layers within a map, and they can be combined with user provided data. For instance, if a user has population data, they will be able to calculate rates of infection with the summary output data.
 
+![GoData](/images/Cumulativecases_50.png)
+
+![GoData](/images/Cumulative_deaths_50.png)
+
+![GoData](/images/Percent_change_50.png)
+
+![GoData](/images/Contacts_under_follow_up_50.png)
+
 ## Helpful tidbits...
 - Prior to running the toolbox for the first time, log into Go.Data URL via a web browser. You will be prompted to change your password. Change your password and make sure you save it somewhere. If you should lose it or forget it, you must contact the outbreak administrator directly (not through Go.Data) to send you a new one, and you will repeat the process of renaming that password prior to running the tool again.
 - It is best practice to always run the tool on a new session of Pro. Meaning, if you run the tool once, and need to re-run it, then first save it (if desired), close the project, and re-open the project before running it again. This should clear out any dangling processes.
