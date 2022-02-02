@@ -1,6 +1,6 @@
 # Go.Data ArcGIS Pro Resources for GIS users
 
-## Go.Data SITREP Toolbox for ArcGIS Pro
+## Go.Data SITREP Toolbox for ArcGIS Pro (v1.0)
 Pro Toolbox
 {: .label .label-purple }
 
