@@ -61,7 +61,7 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 ## SITREP summary metadata
 The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
-![GoData](/images/SITREPSumMetadata3.PNG)
+![GoData](/images/SITREPSumMetadata4.PNG)
 
 ## Sample SITREP maps
 Below are some sample SITREP maps. Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 calculated fields as a result of the summary function and they are also part of the GIS features created. You could combine some of these fields as separately symbolized layers within a map, and they can be combined with user provided data. For instance, if a user has population data, they will be able to calculate rates of infection with the summary output data.
