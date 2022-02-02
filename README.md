@@ -47,11 +47,11 @@ Five csvs of raw outbreak data.
 
 ![GoData](/images/RawCSVs.PNG)
 
-Four SITREP summary tables with multiple fields to create many maps.
+Four SITREP summary tables with 16 calculated fields, each of which could be used to create separate maps.
 
 ![GoData](/images/SummaryCSVs.PNG)
 
-Four feature classes in the file geodatabase provided by user. The feature classes include all of the summary data.
+Four feature classes in the file geodatabase provided by user. The feature classes include all of the associated summary data.
 
 ![GoData](/images/FGDB.PNG)
 
