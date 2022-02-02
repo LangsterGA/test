@@ -59,7 +59,7 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 ![GoData](/images/FGDB.PNG)
 
 ## SITREP summary metadata
-For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/).
+The following graphic illustrates the 16 fields that are calculated as part of the SITREP summary output. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/).
 
 ![GoData](/images/SITREPSumMetadata.PNG)
 
