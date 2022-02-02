@@ -64,7 +64,7 @@ The following graphic illustrates the files and associated fields (16) that are 
 ![GoData](/images/SITREPSumMetadata3.PNG)
 
 ## Sample SITREP maps
-Below are some sample SITREP maps. Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 field calculations as a result of the summary function and they are also part of the GIS features created. some of these fields can be combined within a map, and some can be combined with user provided data. For instance, if a user has population data, they will be able to calculate rates of infection with the summary output data.
+Below are some sample SITREP maps. Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 calculated fields as a result of the summary function and they are also part of the GIS features created. You could combine some of these fields as separately symbolized layers within a map, and they can be combined with user provided data. For instance, if a user has population data, they will be able to calculate rates of infection with the summary output data.
 
 ## Helpful tidbits...
 - Prior to running the toolbox for the first time, log into Go.Data URL via a web browser. You will be prompted to change your password. Change your password and make sure you save it somewhere. If you should lose it or forget it, you must contact the outbreak administrator directly (not through Go.Data) to send you a new one, and you will repeat the process of renaming that password prior to running the tool again.
