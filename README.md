@@ -56,9 +56,9 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 
 ![GoData](/images/FGDB.PNG)
 
+## SITREP summary metadata
 
-For more details on the SITREP tables and possible maps please go [here](some link).
-
+## Sample SITREP maps
 
 ## Other things to note...
 
