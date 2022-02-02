@@ -23,6 +23,7 @@ A Go.Data outbreak administrator must add you as a user to Go.Data and provide y
 ## Step 1: Download the Go.Data ArcGIS Pro SITREP toolbox from [here](https://github.com/WorldHealthOrganization/godata-ESRI-SITREP-toolbox)
 ## Step 2:  Open ArcGIS Pro and add the toolbox to your project
 [To do this](https://pro.arcgis.com/en/pro-app/latest/help/projects/connect-to-a-toolbox.htm), go to the “View” tab on the ribbon and click on the “Catalog Pane” icon. In your catalog pane, right-click on the “Toolboxes” item, select “Add Toolbox”, and then navigate to the folder where you downloaded the toolbox to add it.
+
 ![GoData](/images/OpenSITREP.PNG)
 
 ## Step 3: Open "Create SITREP tables" dialog
@@ -51,7 +52,7 @@ Four SITREP summary tables with 16 calculated fields, each of which could be use
 
 ![GoData](/images/SummaryCSVs.PNG)
 
-Four feature classes in the file geodatabase provided by user. The feature classes include all of the associated summary data.
+Four feature classes in the file geodatabase provided by user. Each feature classes includes its associated summary data.
 
 ![GoData](/images/FGDB.PNG)
 
