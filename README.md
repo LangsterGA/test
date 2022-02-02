@@ -8,7 +8,7 @@ Pro Toolbox
 
 The toolbox has an operational impact because it bypasses the need for a GIS user to be familiar with the Go.Data system or to have to wait for data to be distributed from others. This is important when you are producing the same maps on a daily basis throughout the course of an outbreak response. The user simply logs into Go.Data via the toolbox dialog, extracts, summarizes, and joins to a GIS layer supplied by the user.
 
-SITREP map products can be used in briefing and status documents, or printed and used as reference during field operations. Maps can be shared as images and be incorporated into SITREP publications or incident management slide shows and operations dashboards. More details about the SITREP summary files, as well as some sample SITREP maps, are located further down on this page. Prior to running the tool, we suggest you read the Helpful tidbits section at the bottom of this page to avoid headaches.
+SITREP map products can be used in briefing and status documents, or printed and used as reference during field operations. Maps can be shared as images and be incorporated into SITREP publications or incident management slide shows and operations dashboards. More details about the SITREP summary files, as well as some sample SITREP maps, are located further down on this page. Prior to running the tool, we suggest you read the [Helpful tidbits](https://github.com/LangsterGA/test/blob/master/README.md#helpful-tidbits) section at the bottom of this page to avoid headaches.
 
 ![GoData](/images/ToolBoxAnime.gif)
 
