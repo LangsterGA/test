@@ -63,6 +63,6 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 
 ## Other things to note...
 - It is best practice to always run the tool on a new session of Pro. Meaning, if you run the tool once, and need to re-run it, save, close, and re-open the project.
-- The output files of the tool (csvs, file geodatase tables and features), have hard-coded file names. Because of this, the files will be overwritten the next time you run the tool and point to the same folders and file geodatabase. If you don't want it to overwrite, save to different folders, or you can rename the files after running the tool so they won't be overwritten.
+- The output files of the tool (csvs, file geodatase tables and features), have hard-coded file names. Because of this, the files will be overwritten the next time you run the tool and point to the same folders and file geodatabase. If you don't want it to overwrite, save to different folders, or you can rename the files after running the tool so they won't be overwritten. The same goes for the features and tables in the file geodatase, you can rename them to maintain them so the next time you run the tool it doesn't overwrite them.
 
 If you would like more information or if you have feedback, please email godata@who.int and add "GIS:" at the beginning of the subject line. If you are experiencing a bug or have a feature request, please submit an issue [here](add link to where Pro issues can be submitted if we want to do this)
