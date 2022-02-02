@@ -49,7 +49,7 @@ Five csvs of raw outbreak data.
 
 ![GoData](/images/RawCSVs.PNG)
 
-Four SITREP summary tables with 16 calculated fields, each of which could be used to create separate maps.
+Four SITREP summary tables with 16 total calculated fields, each of which could be used to create a separate map.
 
 ![GoData](/images/SummaryCSVs.PNG)
 
