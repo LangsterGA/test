@@ -63,7 +63,7 @@ For more information about the fields in the raw csv output, please consult Go.D
 
 ## Sample SITREP maps
 
-## Other helpful tidbits...
+## Helpful tidbits...
 - It is best practice to always run the tool on a new session of Pro. Meaning, if you run the tool once, and need to re-run it, then first save it (if desired), close the project, and re-open the project before running it again.
 - The output files of the tool (csvs, file geodatase tables and features), have hard-coded file names. Because of this, the files will be overwritten the next time you run the tool if you point to the same folders and file geodatabase. If you don't want it to overwrite, save to different folders, or you can rename the files after running the tool so they won't be overwritten the next time you run it. The same goes for the features and tables in the file geodatase, you can rename them to maintain them so the next time you run the tool it doesn't overwrite them or you can point to a different file geodatabase.
 - In a best case scenario, the outbreak administrator utilized an official GIS data source with admin names and unique identifiers to set up the location data in the Go.Data system. You may want to ask the administrator or your map requestor if that is the case. If it was, and you have access to the GIS layer, the joins will be seamless. If not, you will have to manually adjust either the summary output or your GIS data set to make them match.
