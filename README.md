@@ -83,7 +83,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 ## Helpful tidbits...
 - Prior to running the toolbox for the first time, log into Go.Data URL via a web browser. You will be prompted to change your password. Change your password and make sure you save it somewhere. If you should lose it or forget it, you must contact the outbreak administrator directly (not through Go.Data) to send you a new one, and you will repeat the process of renaming that password prior to running the tool again.
 - For the URL link portion of the dialog, make sure you just enter up to the top-level domain, not any sub-directories.
-BAD: https://godata.MOH.int/auth/login
+BAD: [id]:https://godata.MOH.int/auth/login
 GOOD: https://godata.MOH.int/
 - It is best practice to always run the tool on a new session of Pro. Meaning, if you run the tool once, and need to re-run it, then first save it (if desired), close the project, and re-open the project before running it again. This should clear out any dangling processes.
 - The output files of the tool (csvs, file geodatase tables and features), have hard-coded file names. Because of this, the files will be overwritten the next time you run the tool if you point to the same folders and file geodatabase. If you don't want it to overwrite, save to different folders, or you can rename the files after running the tool so they won't be overwritten the next time you run it. The same goes for the features and tables in the file geodatase, you can rename them to maintain them so the next time you run the tool it doesn't overwrite them or you can point to a different file geodatabase.
