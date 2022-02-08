@@ -84,6 +84,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 - Prior to running the toolbox for the first time, log into Go.Data URL via a web browser. You will be prompted to change your password. Change your password and make sure you save it somewhere. If you should lose it or forget it, you must contact the outbreak administrator directly (not through Go.Data) to send you a new one, and you will repeat the process of renaming that password prior to running the tool again.
 - For the URL link portion of the SITREP Toolbox dialog, make sure you just enter up to the top-level domain, not any sub-directories.
 
+        Example:
         GOOD: https://godata.MOH.int/
         BAD: https://godata.MOH.int/auth/login
         
