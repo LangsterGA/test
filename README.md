@@ -76,7 +76,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 
 ![GoData](/images/Cumulative_deaths_50.png)
 
-![GoData](/images/Percent_change_50.png)
+![GoData](/images/PerChange_14.png)
 
 ![GoData](/images/Contacts_under_follow_up_50.png)
 
