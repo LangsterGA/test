@@ -74,7 +74,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 
 *(Fictitious Island in graphics below)*
 
-![GoData](/images/Cumulativecases_50.png)
+![GoData](/images/Cum_cases_50.png)
 
 ![GoData](/images/Cumulative_deaths_50.png)
 
