@@ -79,7 +79,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 ![GoData](/images/Cumulative_deaths_50.png)
 
 ### Percent change in new confirmed cases
-Shows the trend in the average daily number of new cases over the last two weeks versus the two weeks prior. Shades of green indicate districts with a downward trend in new cases. Conversely, districts with red are experiencing an increase in new cases. The legend also indicates the number of districts within each classification. From that, we see that 23 of the 25 districts are improving.
+Shows the trend in the average daily number of new cases over the last two weeks versus the two weeks prior. Shades of green indicate districts with a downward trend in new cases. Conversely, districts with red are experiencing an increase in new cases. The legend also indicates the number of districts (n=x) within each classification. From that, we see that 23 of the 25 districts are improving.
 
 ![GoData](/images/Percent_ch_14.png)
 
