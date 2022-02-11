@@ -75,7 +75,7 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 *(Fictitious Island in graphics below)*
 
 ### Cumulative number of confirmed cases
-Captures the total number of confirmed cases by reporting area since the beginning of the outbreak.
+Captures the total number of confirmed cases by reporting area since the beginning of the outbreak. Areas in dark green are districts with the highest number of confirmed cases since the start of the outbreak. Areas with a pale green color have had the lowest number of infections.
 
 
 ![GoData](/images/Cum_cases_50.png)
