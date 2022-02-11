@@ -74,6 +74,10 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 
 *(Fictitious Island in graphics below)*
 
+### Cumulative number of confirmed cases
+Captures the total number of confirmed cases by reporting area since the beginning of the outbreak.
+
+
 ![GoData](/images/Cum_cases_50.png)
 
 ![GoData](/images/Cumulative_deaths_50.png)
