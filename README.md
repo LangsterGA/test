@@ -38,7 +38,7 @@ Sometimes this can be a little slow - depends on your internet speed. The tool i
 - Select the outbreak (4) you want to extract from.
 - Specify the folder (5) you want the raw csv file outputs written. 
 
-NOTE: If you would just like raw extracts, you can just click the Run button at this point.
+NOTE: If you would just like raw extracts, you can just click the 'Run' button at this point.
 
 ![GoData](/images/DialogCompleteFinal_75.png)
 ## Step 5: Fill in optional Summary data parameters
