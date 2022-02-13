@@ -37,7 +37,8 @@ Click on the Go.Data toolbox drop down to see the Create SITREP Tables dialog. H
 Sometimes this can be a little slow - depends on your internet speed. The tool is accessing the Go.Data site via API endpoints using your credentials. 
 - Select the outbreak you want to extract data for
 - Specify the folder you want the raw csv file outputs written. 
-NOTE: If you would just like raw extracts, you can just click the run button at this point.
+
+NOTE: If you would just like raw extracts, you can just click the Run button at this point.
 
 ![GoData](/images/DialogCompleteFinal_75.png)
 ## Step 5: Fill in optional Summary data parameters
