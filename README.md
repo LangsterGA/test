@@ -106,6 +106,7 @@ Shows the trend in the average daily number of new cases over the last two weeks
 ![GoData](/images/Percent_ch_14.png)
 
 ### 4. Contacts under follow-up
+Shows the daily number of contacts of cases that are actively being monitored. The map shows graduated classifications by district and identifies the five districts with the most contacts under follow-up. In areas with high numbers of contacts under follow-up, this could indicate that intervention measures are not working or there is non-compliance.
 
 ![GoData](/images/Contacts_under_follow_up_50.png)
 
