@@ -43,8 +43,9 @@ NOTE: If you would just like raw data extracts, you can just click the 'Run' but
 ![GoData](/images/DialogCompleteFinal_2.png)
 ## Step 5: Fill in optional Summary data parameters
 In order to create the SITREP summary output, complete items 6 - 8. 
-- Specify folders where you want to store your summary csv outputs. 
-- Specify a file geodatabase to write the summary tables (it will also create csvs). 
+- Check the box (6) next to 'Output Summary files'.
+- Specify folders (7) where you want to store your summary csv outputs. 
+- Specify a file geodatabase (8) to write the summary tables (it will also create csvs). 
 It can be an existing one, or you can create a new one prior to running tool. This is actually done in preparation for the next step.
 
 ## Step 6. Fill in optional Join to Geography parameters
