@@ -49,7 +49,11 @@ In order to create the SITREP summary output, complete items 6 - 8.
 It can be an existing one, or you can create a new one prior to running tool. This is actually done in preparation for the next step.
 
 ## Step 6. Fill in optional Join to Geography parameters
-Specify the GIS layer that you want the summary table to join to. Note that the summary data has been programmed to summarize by the lowest level of geography used in the Go.Data system. So, if data was collected by administrative unit area level 2, then that is the level summarized. The summary data will include the location ID for the administrative areas that the system was set up with. That is the field that will be used to join to your GIS data. You will need to make sure that field matches the unique identifier in your GIS data prior to the join. If so, select the field in the GIS layer that matches the summary table locationID. If you aren't sure, just run the tool without joining to see the values in the Location ID field. Compare those with your GIS dataset and proceed accordingly - you may need to manually manipulate the data to match fields for a join.
+If you would like to map the summary data, you will need to join it to a GIS layer. Complete steps 9 - 11 to join your summary data and GIS layer. 
+- Check the box next to 'Join to Geography' (9).
+- Specify the GIS layer that you want the summary table to join to (10).
+- Specify the field in your GIS layer that will match the summary data (11).
+Note that the user must know if the locationID in the summary data will match the GIS layer beforehand. If you are unsure, just run the tool without joining to see the values in the LocationID field in the summary or raw data. Compare those values with your GIS dataset and proceed accordingly - you may need to manually manipulate the data to match fields for a join.
 
 ## Description of tool outputs
 The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by [other means](https://worldhealthorganization.github.io/godata/data-extraction/) and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
