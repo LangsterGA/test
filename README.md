@@ -41,14 +41,14 @@ Sometimes this can be a little slow - depends on your internet speed. The tool i
 NOTE: If you would just like raw data extracts, you can just click the 'Run' button at this point.
 
 ![GoData](/images/DialogCompleteFinal_2.png)
-## Step 5: Fill in optional Summary data parameters
+## Step 5: Fill in Summary data parameters (optional)
 In order to create the SITREP summary output, complete items 6 - 8. 
 - Check the box (6) next to 'Output Summary files'.
 - Specify folders (7) where you want to store your summary csv outputs. 
 - Specify a file geodatabase (8) to write the summary tables (it will also create csvs). 
 It can be an existing one, or you can create a new one prior to running tool. This is actually done in preparation for the next step.
 
-## Step 6. Fill in optional Join to Geography parameters
+## Step 6. Fill in Geography join parameters (optional)
 If you would like to map the summary data, you will need to join it to a GIS layer. Complete steps 9 - 11 to join your summary data and GIS layer. 
 - Check the box next to 'Join to Geography' (9).
 - Specify the GIS layer that you want the summary table to join to (10).
