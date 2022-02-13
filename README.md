@@ -32,7 +32,7 @@ To [add the toolbox](https://pro.arcgis.com/en/pro-app/latest/help/projects/conn
 Click on the Go.Data toolbox drop down to see the Create SITREP Tables dialog. Highlight it, right-click and select 'Open'. This will open the dialog shown in the figure below.
 
 ## Step 4: Fill in the required parameters ***(first five items)***
-- Add the link to the Go.Data site, your user name (email), and your password. 
+- Add the link to the Go.Data site (1), your user name (2), and your password (3). 
 - Hit the tab button from the password section, and the outbreak section will populate a drop-dwn with outbreaks you have access to. 
 Sometimes this can be a little slow - depends on your internet speed. The tool is accessing the Go.Data site via API endpoints using your credentials. 
 - Select the outbreak you want to extract data for
