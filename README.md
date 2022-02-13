@@ -40,7 +40,7 @@ Sometimes this can be a little slow - depends on your internet speed. The tool i
 
 NOTE: If you would just like raw extracts, you can just click the 'Run' button at this point.
 
-![GoData](/images/DialogCompleteFinal_75.png)
+![GoData](/images/DialogCompleteFinal_2.png)
 ## Step 5: Fill in optional Summary data parameters
 Specify folders where you want to store your summary csv outputs. If you want to join summary files to GIS using this tool, you have to use the output summary files option. Also, if you are generating summary data, you must also specify a file geodatabase to write the summary tables (it will also create csvs). If you join to a GIS layer, the features classes that are created are written here too. Even if you do not join summary data to GIS, you must specify a file geodatabase (it will create tables there). It can be an existing one, or you can create a new one prior to running tool.
 
