@@ -89,18 +89,22 @@ Below are some sample SITREP maps using fictional data (outbreak and geography).
 
 *(Fictitious Island in graphics below)*
 
-### Cumulative number of confirmed cases
+### 1. Cumulative number of confirmed cases
 Captures the total number of confirmed cases by reporting area since the beginning of the outbreak. Areas in dark green are districts with the highest number of confirmed cases since the start of the outbreak. Areas with a pale green color have had the lowest number of infections.
 
 
 ![GoData](/images/Cum_cases_50.png)
 
+### 2. Cumulative number of deaths
+Cumulative deaths is one measure of the effect of an outbreak as it show all deaths since the start of the outbreak. This map shows districts with varying levels of deaths. Another way to use death data would be to look at it in time periods after interventions such as quarantine, social distancing, mask-wearing, etc. This would indicate if those measures had an effect.
 ![GoData](/images/Cumulative_deaths_50.png)
 
-### Percent change in new confirmed cases
+### 3. Percent change in new confirmed cases
 Shows the trend in the average daily number of new cases over the last two weeks versus the two weeks prior. Shades of green indicate districts with a downward trend in new cases. Conversely, districts with red are experiencing an increase in new cases. The legend also indicates the number of districts (n=x) within each classification. From that, we see that 23 of the 25 districts are improving.
 
 ![GoData](/images/Percent_ch_14.png)
+
+### 4. Contacts under follow-up
 
 ![GoData](/images/Contacts_under_follow_up_50.png)
 
