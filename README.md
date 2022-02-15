@@ -99,7 +99,7 @@ Captures the total number of confirmed cases by reporting area since the beginni
 ![GoData](/images/Cum_cases_50.png)
 
 ### 2. Cumulative number of deaths
-Cumulative deaths is one measure of the effect of an outbreak as it show all deaths since the start of the outbreak. This map shows districts with varying levels of deaths. Another way to use death data would be to look at it in time periods after interventions such as quarantine, social distancing, mask-wearing, etc. This would indicate if those measures had an effect.
+Cumulative deaths is one measure of the effect of an outbreak as it show all deaths since the start of the outbreak. This map shows districts with varying levels of deaths. Another way to use death data would be to look at it in time periods after interventions such as quarantine, social distancing, mask-wearing, etc. This would indicate if those measures had an effect. Both 7-day and 14-day counts are included in the SITREP summary data.
 
 ![GoData](/images/Cumulative_deaths_50.png)
 
