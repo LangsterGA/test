@@ -10,12 +10,7 @@ The toolbox has an operational impact because it bypasses the need for a GIS use
 
 SITREP map products can be used in briefing and status documents, or printed and used as reference during field operations. Maps can be shared as images and be incorporated into SITREP publications or incident management slide shows and operations dashboards. Metadata for the [SITREP summary](https://github.com/LangsterGA/test/blob/master/README.md#sitrep-summary-metadata) files, as well as some sample [SITREP maps](https://github.com/LangsterGA/test/blob/master/README.md#sample-sitrep-maps), are located further down on this page. Prior to running the tool, we suggest you read the [Helpful tidbits](https://github.com/LangsterGA/test/blob/master/README.md#Helpful-tidbits) section at the bottom of this page to avoid headaches.
 
-## Workflow
-
-![GoData](/images/Flowchart_75.png)
-
 *(Fictitious Island in graphic below)*
-
 ![GoData](/images/ToolBoxAnime.gif)
 
 ## Toolbox prerequisites 
