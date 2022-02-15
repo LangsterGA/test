@@ -13,7 +13,7 @@ SITREP map products can be used in briefing and status documents, or printed and
 Metadata for the [SITREP summary](https://github.com/LangsterGA/test/blob/master/README.md#sitrep-summary-metadata) files, as well as some sample [SITREP maps](https://github.com/LangsterGA/test/blob/master/README.md#sample-sitrep-maps), are located further down on this page. Prior to running the tool, we suggest you read the [Helpful tidbits](https://github.com/LangsterGA/test/blob/master/README.md#Helpful-tidbits) section at the bottom of this page to avoid headaches.
 
 *(Fictitious Island in graphic below)*
-![GoData](/images/ToolBoxAnime.gif)
+![GoData](/images/AnimeToolboxFlowChart.gif)
 
 ## Toolbox prerequisites 
 Prior to using the toolbox, a Go.Data outbreak administrator must add you as a user to Go.Data and provide you the information in the first four bullets below. Currently, the toolbox works with server-based installations of Go.Data. 
