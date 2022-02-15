@@ -61,7 +61,7 @@ The tool is grabbing data from the Go.Data server and then summarizing the data 
 
 ## Step 8. Create maps using the output
 
-## Description of tool outputs
+# Description of tool outputs
 The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by [other means](https://worldhealthorganization.github.io/godata/data-extraction/) and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
 
 The following are what the output looks like if you use the tool fully.
@@ -78,14 +78,14 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 
 ![GoData](/images/FGDB.PNG)
 
-## SITREP summary metadata
+# SITREP summary metadata
 The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. Note that fields are calculated as of the previous day. For instance, if you run the tool to map the value for confirmed cases last 7 days, that value would consist of the previous day (which is the day prior to running the tool), and the 6 days prior. This is because typically numbers published for a response (or for a daily IM meeting), are "as of" the previous day. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
 ![GoData](/images/SITREPSumMetadata4.PNG)
 
 (Add Grid with field names and descriptions)
 
-## Sample SITREP maps
+# Sample SITREP maps
 ![GoData](/images/SITREPMaps.PNG)
 
 Below are some sample SITREP maps using fictional data (outbreak and geography). Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 calculated fields as a result of the summary function and they are also part of the GIS features created. You could combine some of these fields as separately symbolized layers within a map, and they can be combined with user provided data. For instance, if a user has population data, they can calculate the case rate with the case summary output.
@@ -113,7 +113,7 @@ Shows the daily number of contacts of cases that are actively being monitored. T
 
 ![GoData](/images/Contacts_under_follow_up_50.png)
 
-## Helpful tidbits...
+# Helpful tidbits...
 - Prior to running the toolbox for the first time, log into Go.Data URL via a web browser. You will be prompted to change your password. Change your password and make sure you save it somewhere. If you should lose it or forget it, you must contact the outbreak administrator directly (not through Go.Data) to send you a new one, and you will repeat the process of renaming that password prior to running the tool again.
 - For the URL link portion of the SITREP Toolbox dialog, make sure you just enter up to the top-level domain, not any sub-directories.
 
