@@ -56,8 +56,10 @@ If you would like to map the summary data, you will need to join it to a GIS lay
 - Specify the field in your GIS layer that will match the summary data (11).
 Note that the user must know if the locationID in the summary data will match the GIS layer beforehand. If you are unsure, just run the tool without joining to see the values in the LocationID field in the summary or raw data. Compare those values with your GIS dataset and proceed accordingly - you may need to manually manipulate the data to match fields for a join.
 
-- Lastly, click on the 'Run' button! 
+## Step 7. Click on the 'Run' button! 
 The tool is grabbing data from the Go.Data server and then summarizing the data so the size of the outbreak and your bandwidth will affect the time it takes to process.
+
+## Step 8. Create maps using the output
 
 ## Description of tool outputs
 The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by [other means](https://worldhealthorganization.github.io/godata/data-extraction/) and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
