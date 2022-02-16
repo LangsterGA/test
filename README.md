@@ -33,6 +33,7 @@ To [add the toolbox](https://pro.arcgis.com/en/pro-app/latest/help/projects/conn
 ## Step 3: Open "Create SITREP tables" dialog
 Click on the Go.Data toolbox drop down to see the Create SITREP Tables dialog. Highlight it, right-click and select 'Open'. This will open the dialog shown in the figure below.
 
+![GoData](/images/DialogCompleteFinal_2.png)
 ## Step 4: Fill in the mandatory parameters ***(1-5)***
 - Add the link to the Go.Data site (1), your user name (2), and your password (3). 
 - Hit the tab button from the password section, and the next section, Outbreak, will populate a drop-down list of outbreaks you have access to. 
@@ -41,8 +42,6 @@ Sometimes this can be a little slow - depends on your internet speed. The tool i
 - Specify the folder (5) you want the raw csv file outputs written. 
 
 NOTE: If you would just like raw data extracts, you can just click the 'Run' button at this point.
-
-![GoData](/images/DialogCompleteFinal_2.png)
 ## Step 5: Fill in Summary data parameters (optional)
 In order to create the SITREP summary output, complete items 6 - 8. 
 - Check the box (6) next to 'Output Summary files'.
