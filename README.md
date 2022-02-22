@@ -63,7 +63,7 @@ The tool is grabbing data from the Go.Data server and then summarizing the data 
 ***(See [samples](https://github.com/LangsterGA/test/blob/master/README.md#sample-sitrep-maps) below)***
 
 # Description of tool outputs
-Ouputs of the tool include raw data, summarized indicators typically reported in an outbreak response, and new GIS features with summary data. Further details is provided below.
+Outputs of the tool include raw data, summarized indicators typically reported in an outbreak response, and new GIS features with summary data. Further details is provided below.
 
 ### Raw data
 Five csvs of raw outbreak data. This data is returned from Go.Data API endpoints for cases, contacts and locations. It includes most of the core variables thate are collected during an outbreak investigation. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
