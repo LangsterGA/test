@@ -67,7 +67,7 @@ The most basic output of the tool is an extract of the core epi variables within
 The following are the outputs of the toolbox:
 
 ### Raw data
-Five csvs of raw outbreak data. This data is what is returned from Go.Data API endpoints for cases, contacts and locations. They are most of the core variables thate are collected during an outbreak investigation. A few were not included but we hope to include in the next iteration.
+Five csvs of raw outbreak data. This data is what is returned from Go.Data API endpoints for cases, contacts and locations. They are most of the core variables thate are collected during an outbreak investigation. A few were not included but we hope to include in the next iteration. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
 ![GoData](/images/RawCSVs.PNG)
 
@@ -81,7 +81,7 @@ Four feature classes in the file geodatabase provided by user. Each feature clas
 ![GoData](/images/FGDB.PNG)
 
 # SITREP summary metadata
-The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. Note that fields are calculated as of the previous day. For instance, if you run the tool to map the value for confirmed cases last 7 days, that value would consist of the previous day (which is the day prior to running the tool), and the 6 days prior. This is because typically numbers published for a response (or for a daily IM meeting), are "as of" the previous day. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
+The following graphic illustrates the files and associated fields (16) that are calculated as part of the SITREP summary output and are included in the GIS features output. Note that fields are calculated as of the previous day. For instance, if you run the tool to map the value for confirmed cases last 7 days, that value would consist of the previous day (which is the day prior to running the tool), and the 6 days prior. This is because typically numbers published for a response (or for a daily IM meeting), are "as of" the previous day. 
 
 ![GoData](/images/SITREPSumMetadata4.PNG)
 
