@@ -59,7 +59,7 @@ Note that the user must know if the locationID in the summary data will match th
 ## Step 7. Click on the 'Run' button! 
 The tool is grabbing data from the Go.Data server and then summarizing the data so the size of the outbreak and your bandwidth will affect the time it takes to process.
 
-## Step 8. Create maps using the output
+## Step 8. Create maps using the output!
 
 # Description of tool outputs
 The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by [other means](https://worldhealthorganization.github.io/godata/data-extraction/) and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
