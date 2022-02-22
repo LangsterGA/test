@@ -63,9 +63,7 @@ The tool is grabbing data from the Go.Data server and then summarizing the data 
 ***(See [samples](https://github.com/LangsterGA/test/blob/master/README.md#sample-sitrep-maps) below)***
 
 # Description of tool outputs
-The most basic output of the tool is an extract of the core epi variables within the case and contact APIs available with Go.Data. There are many more variables that can be extracted by [other means](https://worldhealthorganization.github.io/godata/data-extraction/) and analyzed and they will vary based on the type of outbreak. Optionally, with this tool you can also generate a set of summary tables in csv format, and as tables in a file geodatabase. Optionally, if the user has a GIS dataset with a unique identifier that matches the 'locationID' field in the summary tables, the tool will join and create new feature classes for each SITREP summary theme. 
-
-The following are the outputs of the toolbox:
+Ouputs of the tool include raw data, summarized indicators typically reported in an outbreak response, and new GIS features with summary data. Further details is provided below.
 
 ### Raw data
 Five csvs of raw outbreak data. This data is returned from Go.Data API endpoints for cases, contacts and locations. It includes most of the core variables thate are collected during an outbreak investigation. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
