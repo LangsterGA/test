@@ -69,12 +69,12 @@ The following are the outputs of the toolbox:
 ### Raw data
 Five csvs of raw outbreak data. This data is what is returned from Go.Data API endpoints for cases, contacts and locations. They are most of the core variables thate are collected during an outbreak investigation. A few were not included but we hope to include in the next iteration. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
-![GoData](/images/RawCSVs.PNG)
+![GoData](/images/RawCSVUpdate.PNG)
 
 ### Summary data
 Four SITREP summary tables with 16 total calculated fields, each of which could be used to create a separate map. Contents described in next section.
 
-![GoData](/images/SummaryCSVs.PNG)
+![GoData](/images/SummaryCSVsUpdate.PNG)
 
 Four feature classes in the file geodatabase provided by user. Each feature classe includes its associated summary data.
 
