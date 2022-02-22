@@ -67,7 +67,7 @@ The most basic output of the tool is an extract of the core epi variables within
 The following are the outputs of the toolbox:
 
 ### Raw data
-Five csvs of raw outbreak data. This data is what is returned from Go.Data API endpoints for cases, contacts and locations. They are most of the core variables thate are collected during an outbreak investigation. A few were not included but we hope to include in the next iteration. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
+Five csvs of raw outbreak data. This data is returned from Go.Data API endpoints for cases, contacts and locations. It includes most of the core variables thate are collected during an outbreak investigation. For more information about the fields in the raw csv output, please consult Go.Data metadata [here](https://worldhealthorganization.github.io/godata/data-mgmt/) for a more complete list of data collected in the Go.Data system.
 
 ![GoData](/images/RawCSVUpdate.PNG)
 
