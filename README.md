@@ -43,7 +43,7 @@ Sometimes this can be a little slow - depends on your internet speed. The tool i
 
 NOTE: If you would just like raw data extracts, you can just click the 'Run' button at this point.
 ## Step 5: Fill in Summary data parameters (optional)
-In order to create the SITREP summary output, complete items 6 - 8. 
+In order to create the SITREP summary output, complete items 6 - 8. Summary data includes 16 variables summarized by reporting area, so they can be mapped.
 - Check the box (6) next to 'Output Summary files'.
 - Specify folders (7) where you want to store your summary csv outputs. 
 - Specify a file geodatabase (8) to write the summary tables (it will also create csvs). 
