@@ -71,6 +71,7 @@ Five csvs of raw outbreak data. This data is what is returned from Go.Data API e
 
 ![GoData](/images/RawCSVs.PNG)
 
+### Summary data
 Four SITREP summary tables with 16 total calculated fields, each of which could be used to create a separate map. Contents described in next section.
 
 ![GoData](/images/SummaryCSVs.PNG)
