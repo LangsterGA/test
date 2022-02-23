@@ -84,7 +84,7 @@ The following graphic illustrates the files and associated fields (16) that are 
 
 ![GoData](/images/SITREPSumMetadata4.PNG)
 
-The data dictionary table below shows the fields in each SITREP summary output file, which includes a description for each field value.
+The data dictionary table below shows the fields in each SITREP summary output file including a description of how each field value is calculated.
 
 ![GoData](/images/SITREP_Meta_GridUpdate2.PNG)
 
