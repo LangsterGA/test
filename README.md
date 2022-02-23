@@ -86,7 +86,7 @@ The following graphic illustrates the files and associated fields (16) that are 
 
 The data dictionary table below shows the fields in each SITREP summary output file including a description of how each field value is calculated.
 
-![GoData](/images/SITREP_Meta_GridUpdate2.PNG)
+![GoData](/images/SITREP_Meta_GridUpdate3.PNG)
 
 # Sample SITREP maps
 Below are some sample SITREP maps using fictional data (outbreak and geography). Note that these are just a few that can be created with the summary tables from this tool. The toolbox creates 16 calculated fields as a result of the summary function and they are also part of the GIS features created. You could combine some of these fields as separately symbolized layers within a map, and they can be combined with user provided data. For instance, if a user has population data, they can calculate the case rate with the case summary output.
